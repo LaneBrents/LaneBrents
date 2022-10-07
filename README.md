@@ -10,11 +10,13 @@
 
 <!-- About Me -->
 ### Glad to have you stop by!
-* I’m interested in ...
-*
-*
-*
+I'm an alum from General Assemblies Software Engineering immersive program. I am passionate about creating beautiful and interactive websites and programs that help individuals in their day-to-day lives. I'm a passionate learner who is always willing to learn new technologies, I love to explore new technologies to solve real world problems. Besides that I am currrently creating new projects and working on data structures and algorithms.
 
+### More about me:
+* 
+* 
+* 
+* 
 <!-- Skill Badges -->
 ### Languages and Skills:
 

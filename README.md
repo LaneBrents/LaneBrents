@@ -37,12 +37,12 @@ I'm an alum from General Assemblies Software Engineering immersive program. I am
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!-- Currently working on section -->
-### What i'm currently learning:
+<!-- ### What i'm currently learning:
 
 <!-- Project and github stat dropdown -->
-### Projects and Stats:
+<!-- ### Projects and Stats: -->
 
 
-#### Thanks for stopping by!
+<!-- #### Thanks for stopping by! --> -->
 
 

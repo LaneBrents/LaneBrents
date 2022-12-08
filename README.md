@@ -43,6 +43,6 @@ I'm an alum from General Assemblies Software Engineering immersive program. I am
 <!-- ### Projects and Stats: -->
 
 
-<!-- #### Thanks for stopping by! --> -->
+<!-- #### Thanks for stopping by! -->
 
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Lane</h1>
 
 <p align="center">
-  <strong>Software Engineer • Full-Stack Developer • Problem Solver</strong>
+  <strong>Software Engineer • Full-Stack Developer</strong>
 </p>
 
 <p align="center">
